@@ -10,8 +10,6 @@ const Navbar = () => {
 
 
 
-
-
         Navbar</div>
 }
 
