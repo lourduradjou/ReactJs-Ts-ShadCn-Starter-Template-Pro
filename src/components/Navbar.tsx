@@ -1,5 +1,11 @@
+import React from 'react'
+
 const Navbar = () => {
-    return <div>Hello</div>
+  return (
+    <div>
+        Navbar
+    </div>
+  )
 }
 
 export default Navbar
