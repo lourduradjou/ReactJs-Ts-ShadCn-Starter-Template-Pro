@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🚀 A production-ready ReactJs template with 🧠 TypeScript, 🧹 ESLint, 🎨 Prettier, 🪝 Husky, 🔍 Lint-Staged, 💨 TailwindCss and 🔭Auto-sort tailwind classes using Prettier plugin, and  ♻️ ShadCN for scalable and maintainable app development.
+  🚀 A production-ready ReactJs template with 🧠 TypeScript, 🧹 ESLint, 🎨 Prettier, 🪝 Husky, 🔍 Lint-Staged, 💨 TailwindCss and 🔭Auto-sort tailwind classes using Prettier plugin, and  ♻️ ShadCN for reusable,scalable and maintainable app development.
 </p>
 
 ---
