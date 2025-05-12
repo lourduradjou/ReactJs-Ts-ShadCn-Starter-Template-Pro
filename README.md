@@ -26,12 +26,13 @@ Make sure you have the following installed before running the project:
 <h2 id="technologies">💻 Technologies</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-v0.76.9-blue" />
-  <img src="https://img.shields.io/badge/ESLint-v9.24.0-green" />
+  <img src="https://img.shields.io/badge/React-v19.1.0-blue" />
+  <img src="https://img.shields.io/badge/TypeScript-v5.8.3-green" />
+  <img src="https://img.shields.io/badge/ESLint-v9.26.0-green" />
   <img src="https://img.shields.io/badge/Prettier-v3.5.3-orange" />
-  <img src="https://img.shields.io/badge/TailWindCss-v4.1.23-yellow" />
+  <img src="https://img.shields.io/badge/TailWindCss-v4.1.6-yellow" />
   <img src="https://img.shields.io/badge/Husky-v9.1.7-blueviolet" />
-  <img src="https://img.shields.io/badge/Lint_Staged-v15.5.1-lightgrey" />
+  <img src="https://img.shields.io/badge/Lint_Staged-v16.0.0-lightgrey" />
 </p>
 
 ### ⚙️ Features
