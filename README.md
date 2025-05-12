@@ -20,7 +20,6 @@ Make sure you have the following installed before running the project:
 - 🟢 Node.js `>= 18.x`
 - 📦 npm, yarn, or pnpm
 - 🧰 Git
--
 ---
 
 <h2 id="technologies">💻 Technologies</h2>
